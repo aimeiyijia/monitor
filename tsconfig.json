@@ -27,6 +27,7 @@
     // "declarationMap": true,
     // "declarationDir": "./dist/packages/", // 类型声明文件的输出目录
     "typeRoots": [
+      "packages/types",
       // 指定某个文件夹的声明文件
       "node_modules/@types"
     ],
